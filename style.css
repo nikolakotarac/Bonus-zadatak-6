@@ -244,13 +244,18 @@ body {
         width:65%;
     }
     .header h2{
-        font-size:20px;
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 27px;
     }
     .header h4{
-        font-size:15px;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 23px;
     }
     .card{
         width:327px;
+        margin-top: 20px;
     }
     .check{
         padding:8px;
@@ -283,7 +288,8 @@ body {
         justify-content: space-around;
     }
     .check img{
-        width:7px;
+        width:9px;
+        height:9px;
     }
     .trial-btn{
         margin-top:20px;
