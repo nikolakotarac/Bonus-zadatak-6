@@ -240,6 +240,9 @@ body {
     body{
         height:300px;
     }
+    .header{
+        width:65%;
+    }
     .header h2{
         font-size:20px;
     }
@@ -248,6 +251,9 @@ body {
     }
     .card{
         width:327px;
+    }
+    .check{
+        padding:8px;
     }
     .card-content{
         align-items: center;
